@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have been studying __python__ recently and I have just recetnely srarted learning about __linux__ at *Uni*
